@@ -67,6 +67,7 @@ Areas of Expertise :
 
 **Project Exposure**
 `Offshore Patrol Vessel (OPV)` `Barge` `Tugboat`
+
 ---
 
 ### ⚓ [PT Noahtu Shipyard](https://noahtushipyard.com/)
