@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="1700" height="500" alt="image" src="https://github.com/kukuhprakosowicaksono/Private/blob/My-Project/Gemini_Generated_Image_ywt8c4ywt8c4ywt8.png?raw=true" />
+<img width="1700" height="500" alt="image" src="https://github.com/kukuhprakosowicaksono/kukuhprakosowicaksono/blob/My-Project/Image/Banner.png?raw=true" />
 
 ## About Me
 I am Kukuh, a Naval Architect with a Bachelor’s Degree in Naval Architecture and a strong passion for shipbuilding and marine engineering. I am interested in vessel design, marine structures, and the process of transforming engineering concepts into practical shipbuilding solutions. I enjoy learning, exploring new engineering challenges, and continuously developing my knowledge and skills in naval architecture and the maritime industry.
