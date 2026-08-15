@@ -38,6 +38,30 @@ Areas of Expertise :
 ### 📋 Classification & Standards
 - Classification Society Requirements ⦁ IMO & MARPOL Requirements ⦁ Project Specifications ⦁ Class Drawing Approval Process ⦁ Technical Compliance & Engineering Review
 
+## 🎓 Education
+
+### 🏛️ [Diponegoro University](https://perkapalan.undip.ac.id/en/beranda_eng/#)
+**Bachelor of Engineering — Naval Architecture**  
+📍 Semarang, Indonesia | 📅 2020 – 2024
+
+**GPA:** `3.60 / 4.00`
+
+| 📚 Academic Focus | |
+|---|---|
+| 🚢 Ship Design | Naval Architecture & Ship Design |
+| ⚓ Stability | Hydrostatics & Ship Stability |
+| 🏗️ Structure | Marine & Ship Structural Design |
+| 🌊 Hydrodynamics | Resistance & Hydrodynamics |
+| 🔧 Shipbuilding | Ship Construction & Production |
+| 📐 Engineering | Marine Engineering & Outfitting |
+
+### 📖 Undergraduate Final Project
+
+**Final Project Title:**  
+> *[Analysis of the Structural Response of a 2919 GT Ro-Ro Ship Due to Changes in Hull Construction Length](https://journal.its.ac.id/index.php/ijmeir/article/view/4837)* 
+
+**Field:** Naval Architecture & Marine Engineering
+
 ## 💻 Software & Engineering Tools
 ### CAD & Ship Design
 - **AutoCAD** — Hull, outfitting, production & fabrication drawings
