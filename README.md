@@ -84,7 +84,7 @@ Areas of Expertise :
 
 > **Focus:** Hull Engineering • Outfitting • MTO • Production Support • Class Coordination
 
-**🏆 Key Achievements**
+** Key Responsibilities**
 - Supported the engineering development of OPV and barge projects through hull & outfitting drawing review, production drawing preparation, and MTO development.
 - Coordinated with Owner, Production, QC, and Engineering teams to resolve technical issues and align engineering requirements with actual construction conditions.
 - Prepared and submitted engineering drawings for Classification Society review and approval, supporting compliance with project specifications and class requirements.
